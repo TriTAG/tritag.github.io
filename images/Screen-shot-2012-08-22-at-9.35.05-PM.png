@@ -1,0 +1,453 @@
+<!DOCTYPE html><html lang="en" dir="ltr"
+   prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/ v: http://www.w3.org/2006/vcard/ns#">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/x-mathjax-config">MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX'],
+  MMLorHTML: { prefer: { Firefox: "MML" }},
+  tex2jax: {
+    displayMath: [ ['\\[','\\]'] ],
+    inlineMath: [ ['\\(','\\)'] ],
+    processEscapes: true,
+    processClass: 'page',
+    ignoreClass: 'html'
+  },
+  showProcessingMessages: false,
+  messageStyle: 'none'
+});
+</script><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Welcome to the website for the Motion Research Group in the Department of Systems Design Engineering at the University of Waterloo directed by Professor John McPhee. We specialize in dynamic simulation, model-based control, and design optimization of mechanical, mechatronic, and biomechatronic multibody systems." />
+<link rel="canonical" href="https://uwaterloo.ca/motion-research-group/welcome-motion-research-group" />
+<link rel="shortlink" href="https://uwaterloo.ca/motion-research-group/node/1" />
+<meta property="og:site_name" content="Motion Research Group" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://uwaterloo.ca/motion-research-group/welcome-motion-research-group" />
+<meta property="og:title" content="Home | Motion Research Group" />
+<meta property="og:description" content="Welcome to the website for the Motion Research Group in the Department of Systems Design Engineering at the University of Waterloo directed by Professor John McPhee. We specialize in dynamic simulation, model-based control, and design optimization of mechanical, mechatronic, and biomechatronic multibody systems." />
+<meta property="og:updated_time" content="2020-04-17T10:57:47-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://uwaterloo.ca/motion-research-group/welcome-motion-research-group" />
+<meta name="twitter:title" content="Home | Motion Research Group" />
+<meta name="twitter:description" content="Welcome to the website for the Motion Research Group in the Department of Systems Design Engineering at the University of Waterloo directed by Professor John McPhee. We specialize in dynamic" />
+<meta property="article:published_time" content="2016-08-17T08:46:34-04:00" />
+<meta property="article:modified_time" content="2020-04-17T10:57:47-04:00" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Home | Motion Research Group | University of Waterloo</title>
+  <meta name="msapplication-navbutton-color" content="#000000" />
+  <meta name="msapplication-TileColor" content="#000000"/>
+  <meta name="msapplication-square70x70logo" content="/university-of-waterloo-logo-tile-70.png"/>
+  <meta name="msapplication-square150x150logo" content="/university-of-waterloo-logo-tile-150.png"/>
+  <meta name="msapplication-wide310x150logo" content="/university-of-waterloo-logo-tile-310x150.png"/>
+  <meta name="msapplication-square310x310logo" content="/university-of-waterloo-logo-tile-310.png"/>
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-57.png" sizes="57x57">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-72.png" sizes="72x72">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-76.png" sizes="76x76">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-114.png" sizes="114x114">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-120.png" sizes="120x120">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-144.png" sizes="144x144">
+  <link rel="apple-touch-icon" href="/university-of-waterloo-logo-152.png" sizes="152x152">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;500&display=swap" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_PPvGgGkGfmogQabAox0HTbDZ3TetBUNWXUxvwOXpSRg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_6-xK4WN7cAAvkMKLhT82n6zjNGMSRzqdVa3AKWQQdUE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_xri6weHpy3iSNpPijAB-azWsWmFPGu00rHdpmQOCdJI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_ZMgfVYnh1sPiTs4MmC9UgQlpEjVZ_FwlPKmqFss6TwY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_LKA0trcH96SUqm0IucFtXunMSf2irPRrLgrsQCY9vUE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_E9Jx7KnM-yqRxjhPa8EV5J8WR_ykPxCCDdg2xV3lpFg.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_kcXy1sBY4hQO1tzRk4bsYV2NBbXPuCsVg93FtIfgyec.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_d4SkSd-lFQfeSQUZk7BY2pqeCO9gvH4wCkjlxQzN2I0.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_x78jPX_ifgCLsZCHl5MePv2wX2NZY9A17QkmEoTY6kE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_4eoxh_a3Rj545xVaY4Ep-gKHeFiYVa8wr__wQYXy-bw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/css/css_haQ_XeIfHzzYkTN4SNgkpVcF9XacIi21Aw3qmTwh02g.css" media="print" />
+  <script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_zK7sIFnngDvS9nUQiGGduv7m96l7Ugvv_DWu4PDu0iI.js"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_s7yA-hwRxnKty__ED6DuqmTMKG39xvpRyrtyCrbWH4M.js"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_mBSt2yYWiU4bDiiKYY2wr_QQc7EpllwJpGngAgBPwtg.js"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_bwswYDDWiXFz4GlqFbQbWZD938HJC7TkrF0KU5gL8ds.js"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_MB5g5I_s4EZ7_eXubFiOw0wrUyl35hTQ9IVxz-hxrPo.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_hFeiisT_0ji1t8NuVawaMCoBa7qcj5IB5y2OH2K9_tw.js"></script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_QMpGcHFCyhbp4LgDYZZQchJVr9KTBMwxIImEqmjW9ko.js"></script>
+<script>
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/motion-research-group\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"uw_fdsu_theme_resp","theme_token":"4BjJOtamI9Y4TA-ei1eTi3gyra5qe_cq31dsikMYf0o","jquery_version":"1.8","js":{"profiles\/uw_base_profile\/modules\/contrib\/responsive_tables_filter\/tablesaw\/js\/tablesaw.stackonly.jquery.js":1,"profiles\/uw_base_profile\/modules\/contrib\/responsive_tables_filter\/tablesaw\/js\/tablesaw-init.js":1,"0":1,"profiles\/uw_base_profile\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.min.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"profiles\/uw_base_profile\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/uw_base_profile\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/uw_base_profile\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"profiles\/uw_base_profile\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/uw_base_profile\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/js\/ckeditor_socialmedia.js":1,"profiles\/uw_base_profile\/modules\/custom\/media_link\/mediaelement\/mediaelement-and-player.min.js":1,"profiles\/uw_base_profile\/modules\/custom\/media_link\/media_link.js":1,"profiles\/uw_base_profile\/modules\/contrib\/responsive_menu_combined\/js\/responsive_menu_combined.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_facts_and_figures\/js\/uw_ct_embedded_facts_and_figures.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_timeline\/js\/uw_ct_embedded_timeline.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_image_gallery\/js\/uw_ct_image_gallery.js":1,"profiles\/uw_base_profile\/modules\/contrib\/mathjax\/mathjax.js":1,"profiles\/uw_base_profile\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/uw_base_profile\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/uw_base_profile\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_home_page_banner\/js\/uw_banner_slideshow.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_facts_and_figures\/js\/jquery-circliful\/js\/jquery.circliful.min.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_facts_and_figures\/js\/d3_tip_min.js":1,"profiles\/uw_base_profile\/libraries\/d3\/d3.min.js":1,"profiles\/uw_base_profile\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/uw_base_profile\/modules\/contrib\/views_load_more\/views_load_more.js":1,"profiles\/uw_base_profile\/modules\/contrib\/views\/js\/ajax_view.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_promo_item\/js\/uw_promo_random.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_promo_item\/js\/reload_twitter.js":1,"profiles\/uw_base_profile\/modules\/contrib\/ctools\/js\/modal.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.0\/MathJax.js?config=TeX-AMS-MML_HTMLorMML":1,"profiles\/uw_base_profile\/libraries\/OwlCarousel\/owl-carousel\/owl.carousel.js":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme\/scripts\/expandable.js":1,"profiles\/uw_base_profile\/modules\/custom\/uw_header_search\/uw_header_search.js":1,"profiles\/uw_base_profile\/themes\/uw_core_theme\/scripts\/searchtext.js":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/scripts\/resp.js":1},"css":{"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/uw_base_profile\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/css\/ckeditor_socialmedia.css":1,"modules\/comment\/comment.css":1,"profiles\/uw_base_profile\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/uw_base_profile\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"profiles\/uw_base_profile\/modules\/custom\/media_link\/mediaelement\/mediaelementplayer.css":1,"modules\/node\/node.css":1,"profiles\/uw_base_profile\/modules\/contrib\/office_hours\/office_hours.css":1,"profiles\/uw_base_profile\/modules\/contrib\/responsive_menu_combined\/css\/responsive_menu_combined.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_a11y\/css\/uw_a11y.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_bibliography\/css\/uw_ct_bibliography.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_custom_listing\/css\/uw_ct_custom_listing.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_facts_and_figures\/cs\/uw_ct_embedded_facts_and_figures.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_timeline\/css\/uw_ct_embedded_timeline.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_image_gallery\/css\/image-galleries.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_image_gallery\/css\/uw_ct_image_gallery.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_project\/css\/uw_ct_project.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_promo_item\/css\/uw_ct_promo_item.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_special_alert\/uw_ct_special_alert.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_display_writer_tips\/css\/uw_display_writer_tips.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_feed_webresources_news\/css\/uw_feed_webresources_news.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_gmap_config\/css\/uw_gmap_config.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_org_chart\/css\/uw_org_chart.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_site_fdsu\/css\/eu_cookie_compliance.bare.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_video_embed\/css\/uw_video_embed.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_wb_config\/css\/uw_wb_config.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_wysiwyg_ckeditor\/css\/uw_wysiwyg_ckeditor.css":1,"profiles\/uw_base_profile\/modules\/contrib\/responsive_tables_filter\/tablesaw\/css\/tablesaw.stackonly-base.css":1,"profiles\/uw_base_profile\/modules\/contrib\/responsive_tables_filter\/tablesaw\/css\/tablesaw.stackonly-responsive.css":1,"profiles\/uw_base_profile\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/uw_base_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/uw_base_profile\/modules\/contrib\/biblio\/biblio.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_embedded_facts_and_figures\/js\/jquery-circliful\/css\/jquery.circliful.css":1,"profiles\/uw_base_profile\/libraries\/OwlCarousel\/owl-carousel\/owl.carousel.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/css\/rwd.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/css\/colors.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/css\/resp.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/css\/global-message.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme_resp\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/motion-research-group\/sites\/ca.motion-research-group\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"uw_ct_special_alert_block":{"displays":{"block":{"filters":[]}}},"manage_promotional_items":{"displays":{"promotional_block_sticky":{"filters":[]},"promotional_block":{"filters":[]}}}}},"uw_banner_slideshow":{"transitionspeed":"400","slidespeed":"7000","autoplay":1},"views":{"ajax_path":"\/motion-research-group\/views\/ajax","ajaxViews":{"views_dom_id:84de197a14a54ba15f0c6abe7136ef4c":{"view_name":"manage_promotional_items","view_display_id":"promotional_block_sticky","view_args":"","view_path":"node\/1","view_base_path":"admin\/workbench\/create\/promotional-items-sticky\/rearrange","view_dom_id":"84de197a14a54ba15f0c6abe7136ef4c","pager_element":0},"views_dom_id:1563714bb05243bb859d8259ffd31f9b":{"view_name":"manage_promotional_items","view_display_id":"promotional_block","view_args":"","view_path":"node\/1","view_base_path":"admin\/workbench\/create\/promotional-items\/rearrange","view_dom_id":"1563714bb05243bb859d8259ffd31f9b","pager_element":0}}},"urlIsAjaxTrusted":{"\/motion-research-group\/views\/ajax":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance the user experience.\u003C\/h2\u003E\u003Cp\u003ESelect \u0027Accept all\u0027 to agree and continue. You consent to our cookies if you continue to use this website.\u003C\/p\u003E          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n                \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":1,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/motion-research-group\/","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":1,"popup_eu_only_js":0,"cookie_lifetime":100,"cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance the user experience.\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":null,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":null,"cookie_name":"","cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","automatic_cookies_removal":"","close_button_action":""},"currentPath":"node\/1","currentPathIsAdmin":false,"CToolsModal":{"loadingText":"Loading...","closeText":"","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/uwaterloo.ca\/motion-research-group\/profiles\/uw_base_profile\/modules\/custom\/uw_header_search\/images\/spacer.png\u0022 alt=\u0022\u0022 title=\u0022\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/uwaterloo.ca\/motion-research-group\/profiles\/uw_base_profile\/modules\/custom\/uw_header_search\/images\/spacer.png\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","modalSize":{"type":"scale","width":1,"height":1},"modalOptions":{"opacity":0.98,"background-color":"#252525"},"animation":"fadeIn","animationSpeed":"slow","throbberTheme":"CToolsThrobber"},"ckeditor_socialmedia":{"twitter_shell_background":"000000","twitter_shell_foreground":"ffffff","twitter_tweets_background":"ffffff","twitter_tweets_foreground":"000000","twitter_tweets_links":"0033ff","facebook_colorscheme":"light","livestream_color":"e7e7e7","livestream_icon_color":"777777","livestream_icon_color_over":"888888"}});
+//--><!]]>
+</script>
+  <!--[if lte IE 7]><script src="/motion-research-group/profiles/uw_base_profile/themes/uw_core_theme/scripts/iconfont.lte-ie7.js"></script><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/motion-research-group/profiles/uw_base_profile/themes/uw_core_theme/css/ie7.css"><![endif]-->
+    </head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1 node-type-uw-web-page i18n-en org_eng" >
+<!--[if lt IE 7]><div id="ie6message">Your version of Internet Explorer web browser is insecure, not supported by Microsoft, and does not work with this web site. Please use one of these links to upgrade to a modern web browser: <a href="http://www.mozilla.org/firefox/">Firefox</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">Internet Explorer</a>.</div><![endif]-->
+    <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9XLVF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  </div>
+  <div class="breakpoint"></div>
+<div id="site" class="page with-navigation uw-site">
+  <div class="uw-site--inner">
+    <div class="uw-section--inner">
+      <nav id="skip" class="skip" aria-label="Skip links">
+        <a href="#main" class="element-invisible element-focusable uw-site--element__invisible uw-site--element__focusable">Skip to main</a>
+        <a href="#footer" class="element-invisible element-focusable uw-site--element__invisible uw-site--element__focusable">Skip to footer</a>
+      </nav>
+    </div>
+    <header id="header" class="uw-header--global">
+            <div class="uw-section--inner">
+        <div id="uw-header" class="uw-header">
+  <div id="uw-header-content" class="uw-header--content">
+          <div id="uw-header-logo" class="uw-header--logo">
+        <a id="uw-logo" class="uw-logo" href="//uwaterloo.ca/">University of Waterloo</a>
+      </div>
+              <nav class="nav-university uw-header--nav__university" aria-label="University">
+        <ul class="global-menu">
+          <li><a href="https://uwaterloo.ca/admissions/">Admissions</a></li>
+          <li><a href="https://uwaterloo.ca/about/">About Waterloo</a></li>
+          <li><a href="https://uwaterloo.ca/faculties-academics/">Faculties &amp; academics</a></li>
+          <li><a href="https://uwaterloo.ca/offices-services/">Offices &amp; services</a></li>
+          <li><a href="https://uwaterloo.ca/support/">Support Waterloo</a></li>
+          <li><a href="https://uwaterloo.ca/coronavirus/">COVID-19</a></li>
+        </ul>
+      </nav>
+        <div id="uw-header-buttons" class="uw-header--buttons non_generic_header">
+      <div id="uw-header-search-button" class="uw-header--buttons__search" role="search">
+        <a href="/motion-research-group/search_modal/nojs" class="ctools-use-modal search-button" aria-expanded="false"><span class="ifdsu fdsu-search-2"></span>Search</a>
+      </div>
+      <nav id="block-responsive-menu-combined-responsive-menu-combined" class="rmc-nav block block-responsive-menu-combined block-odd" aria-label="Main">
+  <form autocomplete="off">
+    <input type="checkbox" id="rmc-nav__checkbox" class="rmc-nav__checkbox element-invisible" />
+    <label for="rmc-nav__checkbox" class="rmc-nav__navigation-button navigation-button">
+      <span class="navigation-button__text">Menu</span>
+      <span class="navigation-button__lines"></span>
+    </label>
+    <div class="rmc-nav__content-wrapper">
+      <div role="tablist" aria-owns="tab-main-menu tab-menu-uw-menu-global-header" class="responsive-nav-menu"><div role="tab" aria-controls="tabpanel-main-menu" class="tab tab-2">
+<input type="radio" id="tab-main-menu" name="tab-group-responsive_menu_combined" class="element-invisible" checked />
+<label id="tab-label-main-menu" for="tab-main-menu">This site</label>
+<div role="tabpanel" id="tabpanel-main-menu" aria-labelledby="tab-label-main-menu" class="content">
+<ul id="submenu-233" class="menu"><li class="first leaf motion-research-group-home mid-233"><a href="/motion-research-group/" title="" class="active">Motion Research Group home</a></li>
+<li class="leaf about-motion-research-group mid-770"><a href="/motion-research-group/about-motion-research-group">About Motion Research Group</a></li>
+<li class="expanded people-profiles mid-1079"><a href="/motion-research-group/people-profiles">People Profiles</a><ul id="submenu-1022" class="sub-nav "><li class="first leaf faculty mid-1022"><a href="/motion-research-group/people-profiles/faculty">Faculty</a></li>
+<li class="leaf postdoctoral-fellows mid-1025"><a href="/motion-research-group/people-profiles/postdoctoral-fellows">Postdoctoral Fellows</a></li>
+<li class="leaf phd-students mid-1021"><a href="/motion-research-group/people-profiles/phd-students">PhD Students</a></li>
+<li class="leaf masc-students mid-1023"><a href="/motion-research-group/people-profiles/masc-students">MASc Students</a></li>
+<li class="leaf research-engineers mid-1040"><a href="/motion-research-group/people-profiles/research-engineers">Research Engineers</a></li>
+<li class="last leaf alumni mid-1041"><a href="/motion-research-group/people-profiles/alumni">Alumni</a></li>
+</ul>
+</li>
+<li class="expanded projects mid-1031"><a href="/motion-research-group/projects">Projects</a><ul id="submenu-1015" class="sub-nav "><li class="first leaf wearable-exoskeletons-and-prostheses mid-1015"><a href="/motion-research-group/projects/wearable-exoskeletons-and-prostheses">Wearable Exoskeletons and Prostheses</a></li>
+<li class="leaf machine-learning-and-computer-vision mid-1013"><a href="/motion-research-group/projects/control-and-optimization">Machine Learning and Computer Vision</a></li>
+<li class="leaf autonomous-and-connected-vehicles mid-1014"><a href="/motion-research-group/projects/automated-and-connected-vehicles">Autonomous and Connected Vehicles</a></li>
+<li class="leaf automotive-system-dynamics-and-control mid-1016"><a href="/motion-research-group/projects/automotive-system-dynamics-and-control">Automotive System Dynamics and Control</a></li>
+<li class="leaf stroke-rehabilitation-robotics mid-1011"><a href="/motion-research-group/projects/stroke-rehabilitation-robotics">Stroke Rehabilitation Robotics</a></li>
+<li class="leaf dynamic-walking-and-balance-control mid-1111"><a href="/motion-research-group/projects/dynamic-walking-and-balance-control">Dynamic Walking and Balance Control</a></li>
+<li class="leaf golf-biomechanics-and-club-optimization mid-1102"><a href="/motion-research-group/projects/golf-biomechanics-and-club-optimization">Golf Biomechanics and Club Optimization</a></li>
+<li class="leaf human-movement-prediction-for-orthopedic-surgery mid-1112"><a href="/motion-research-group/projects/human-movement-prediction-orthopedic-surgery">Human Movement Prediction for Orthopedic Surgery</a></li>
+<li class="last leaf olympic-and-paralympic-sports-engineering mid-1103"><a href="/motion-research-group/projects/olympic-and-paralympic-sports-engineering">Olympic and Paralympic Sports Engineering</a></li>
+</ul>
+</li>
+<li class="leaf publications mid-718"><a href="/motion-research-group/publications">Publications</a></li>
+<li class="leaf research-partners mid-1029"><a href="/motion-research-group/research-partners">Research Partners</a></li>
+<li class="leaf news mid-773"><a href="/motion-research-group/news">News</a></li>
+<li class="leaf photo-gallery mid-1017"><a href="/motion-research-group/morg-photos">Photo Gallery</a></li>
+<li class="leaf contact-us mid-1030"><a href="/motion-research-group/contact-us">Contact Us</a></li>
+<li class="leaf data-models-code mid-1243"><a href="/motion-research-group/data-models-and-code">Data, Models, Code</a></li>
+<li class="last leaf multibody-system-dynamics-international-research mid-1113"><a href="/motion-research-group/multibody-system-dynamics-international-research-activities">Multibody System Dynamics:  International Research</a></li>
+</ul>
+</div>
+</div>
+<div role="tab" aria-controls="tabpanel-menu-uw-menu-global-header" class="tab tab-2">
+<input type="radio" id="tab-menu-uw-menu-global-header" name="tab-group-responsive_menu_combined" class="element-invisible" />
+<label id="tab-label-menu-uw-menu-global-header" for="tab-menu-uw-menu-global-header">UWaterloo</label>
+<div role="tabpanel" id="tabpanel-menu-uw-menu-global-header" aria-labelledby="tab-label-menu-uw-menu-global-header" class="content">
+<ul id="submenu-563" class="menu"><li class="first leaf admissions mid-563"><a href="https://uwaterloo.ca/admissions" title="">Admissions</a></li>
+<li class="leaf about-waterloo mid-564"><a href="https://uwaterloo.ca/about" title="">About Waterloo</a></li>
+<li class="leaf faculties-academics mid-565"><a href="https://uwaterloo.ca/faculties-academics" title="">Faculties &amp; academics</a></li>
+<li class="leaf offices-services mid-566"><a href="https://uwaterloo.ca/offices-services" title="">Offices &amp; services</a></li>
+<li class="leaf support-waterloo mid-567"><a href="https://uwaterloo.ca/support" title="">Support Waterloo</a></li>
+<li class="last leaf covid-19 mid-1236"><a href="https://uwaterloo.ca/coronavirus" title="">COVID-19</a></li>
+</ul>
+</div>
+</div>
+</div>
+    </div>
+  </form>
+</nav>
+    </div>
+  </div>
+</div>
+      </div>
+    </header>
+    <div id="site--offcanvas" class="uw-site--off-canvas non_generic_header">
+      <div class="uw-section--inner">
+              </div>
+    </div>
+          <div id="site-colors" class="uw-site--colors">
+        <div class="uw-section--inner">
+          <div class="uw-site--cbar">
+            <div class="uw-site--c1 uw-cbar"></div>
+            <div class="uw-site--c2 uw-cbar"></div>
+            <div class="uw-site--c3 uw-cbar"></div>
+            <div class="uw-site--c4 uw-cbar"></div>
+          </div>
+        </div>
+      </div>
+        <div id="site-header" class="uw-site--header" role="region" aria-label="Site title">
+      <div class="uw-section--inner">
+        <a href="/motion-research-group/" title="Motion Research Group" rel="home">
+          Motion Research Group                  </a>
+      </div>
+    </div>
+    <div class="uw-header--banner__alt">
+      <div class="uw-section--inner">
+          <div class="region region-banner-alt">
+    <div id="block-uw-ct-home-page-banner-banner" class="block block-uw-ct-home-page-banner block-even">
+
+    
+  <div class="content">
+    <form autocomplete="off"><div id="uwb_area" class="wide">
+<div class="banner wide">
+        <input type="checkbox" id="banner-caption-check-10" class="banner-caption-check"/>
+    
+  <div class="banner-wrap">
+  
+  <span class="banner-image"><img typeof="foaf:Image" src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/styles/banner-wide/public/uploads/images/banners/driver_model.png?itok=dq7Kc5GJ" width="1000" height="200" alt="Driver Model" />  </span>
+     </div>
+   
+    <label for="banner-caption-check-10" class="banner-caption-button">Info</label>
+    <span class="banner-caption" id="banner-caption-10">
+                    <span>Neuromusculoskeletal Human Driver Modelling for Design and Control of Power Steering Systems</span>
+          </span>
+   
+</div>
+<ul id="uwb_paginator"><li><a href="/motion-research-group/?uwb=10" title="display banner #1" class="uwb_selected"><span class="element-invisible">Display banner #</span>1</a></li><li><a href="/motion-research-group/?uwb=793" title="display banner #2"><span class="element-invisible">Display banner #</span>2</a></li><li><a href="/motion-research-group/?uwb=794" title="display banner #3"><span class="element-invisible">Display banner #</span>3</a></li></ul></div></form>  </div>
+</div>
+  </div>
+      </div><!-- /uw-headeranner__alt -->
+    </div>
+    <div id="main" class="uw-site--main" role="main">
+      <div class="uw-section--inner">
+        <nav id="site-navigation-wrapper" class="uw-site-navigation--wrapper" aria-label="Site">
+          <div id="site-specific-nav" class="uw-site-navigation--specific">
+            <div id="site-navigation" class="uw-site-navigation">
+                <div class="region region-sidebar-first">
+    <div id="main-menu" class="site-menu">
+  <ul class="menu"><li class="first leaf motion-research-group-home mid-233"><a href="/motion-research-group/" title="" class="active">Motion Research Group home</a></li>
+<li class="leaf about-motion-research-group mid-770"><a href="/motion-research-group/about-motion-research-group">About Motion Research Group</a></li>
+<li class="collapsed people-profiles mid-1079"><a href="/motion-research-group/people-profiles">People Profiles</a></li>
+<li class="collapsed projects mid-1031"><a href="/motion-research-group/projects">Projects</a></li>
+<li class="leaf publications mid-718"><a href="/motion-research-group/publications">Publications</a></li>
+<li class="leaf research-partners mid-1029"><a href="/motion-research-group/research-partners">Research Partners</a></li>
+<li class="leaf news mid-773"><a href="/motion-research-group/news">News</a></li>
+<li class="leaf photo-gallery mid-1017"><a href="/motion-research-group/morg-photos">Photo Gallery</a></li>
+<li class="leaf contact-us mid-1030"><a href="/motion-research-group/contact-us">Contact Us</a></li>
+<li class="leaf data-models-code mid-1243"><a href="/motion-research-group/data-models-and-code">Data, Models, Code</a></li>
+<li class="last leaf multibody-system-dynamics-international-research mid-1113"><a href="/motion-research-group/multibody-system-dynamics-international-research-activities">Multibody System Dynamics:  International Research</a></li>
+</ul></div>
+  </div>
+            </div>
+          </div>
+        </nav>
+        <div class="uw-site--main-top">
+          <div class="uw-site--banner">
+                      </div>
+          <div class="uw-site--messages">
+                      </div>
+          <div class="uw-site--help">
+                      </div>
+          <div class="uw-site--breadcrumb">
+                      </div>
+          <div class="uw-site--title">
+                        <h1>Welcome to the Motion Research Group</h1>
+          </div>
+        </div>
+        <!-- when logged in -->
+                  <div class="node-tabs uw-site-admin--tabs"></div>
+                        <div class="uw-site-main--content">
+          <div id="content" class="uw-site-content">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-uw-web-page node-even"  about="/motion-research-group/welcome-motion-research-group" typeof="foaf:Document">
+  <div class="node-inner">
+
+    
+    
+    
+    <div class="content_node">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="caption"><span>Welcome to the website for the Motion Research Group in the Department of Systems Design Engineering at the University of Waterloo directed by Professor John McPhee. </span><span>W</span>e specialize in dynamic simulation, model-based control, and design optimization of mechanical, mechatronic, and biomechatronic multibody systems.</p>
+</div></div></div><span property="dc:title" content="Welcome to the Motion Research Group" class="rdf-meta element-hidden"></span>    </div>
+
+    
+          <div class="links"></div>
+    
+  </div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+  </div>
+</div>
+<div id="block-uw-ct-news-item-front-page" class="block-news block-list block_current">
+          <h2 class="tab-link" data-block-tab="news">News</h2>
+        <div id="news" class="item-class block_current"><div class="item-list"><ol><li class="first"><span class="home-listing-block-date sticky">May&nbsp;23, 2024</span><span class="home-listing-block-link"><a href="/motion-research-group/news/morgs-exoskeleton-research-featured-ontario-biomechanics">MoRG&#039;s exoskeleton research featured at the Ontario Biomechanics Conference (OBC) </a></span><div class="home-listing-block-summary"><img alt="OBC2024" src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/uploads/images/obc.jpeg" typeof="foaf:Image"><p class="caption">Research on "muscle activity following postural perturbations wearing a lower limb exoskeleton" by Claudia Town, <a href="/motion-research-group/people-profiles/keaton-inkol">Keaton Inkol</a>, <a href="/motion-research-group/about/people/mcphee">John McPhee</a>, and Andrew Laing was featured at the 2024 Ontario Biomechanics Conference. </p>
+</div></li>
+<li><span class="home-listing-block-date sticky">Mar.&nbsp;12, 2024</span><span class="home-listing-block-link"><a href="/motion-research-group/news/morg-research-baseball-and-hockey-featured-times">MoRG research in baseball and hockey featured on the LA Times</a></span><div class="home-listing-block-summary"><img alt="thor" src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/uploads/images/thor_0.jpeg" typeof="foaf:Image"><p class="caption">A baseball pitching robot that spun out of the Motion Research Group (now <a href="https://www.trajektsports.com/">Trajekt Sports</a>), as well as a hockey slapshot robot (THoR), were recently featured on the <a href="https://www.latimes.com/sports/dodgers/story/2024-03-12/dodgers-trajekt-arc-batting-swings-shohei-ohtani">Los Angeles Times</a>.   <br />
+	 <br /></p>
+</div></li>
+<li class="last"><span class="home-listing-block-date sticky">Feb.&nbsp;22, 2024</span><span class="home-listing-block-link"><a href="/motion-research-group/news/john-mcphee-featured-cram-podcast">John McPhee featured on the CRAM podcast</a></span><div class="home-listing-block-summary"><img alt="cram" src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/uploads/images/cram.jpeg" typeof="foaf:Image"><p class="caption"><a href="/motion-research-group/about/people/mcphee">John McPhee</a>, Professor of Systems Design Engineering at the University of Waterloo and the Canada Research Chair in Biomechatronic System Dynamics, joined Mary Ito on <a href="https://cramideas.com/">the CRAM podcast</a> to discuss his research on improving electric and autonomous vehicles, developing exoskeletons for stroke patients, and increasing the performance of Olympic and pro athletes.</p></div></li>
+</ol></div><span class="home-listing-block-more-link"><a href="/motion-research-group/news">Read all news</a></span></div>
+</div>
+<div id="block-uw-social-media-sharing-social-media-block" class="block block-uw-social-media-sharing block-even">
+
+    
+  <div class="content">
+    <div class="item-list"><ul class="share-buttons"><li class="first"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock&amp;t=Welcome%20to%20the%20Motion%20Research%20Group"><img alt="Share via Facebook" src="/motion-research-group/profiles/uw_base_profile/modules/custom/uw_social_media_sharing/images/Facebook.png"></a></li>
+<li><a href="https://twitter.com/intent/tweet?source=https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock&amp;text=Welcome%20to%20the%20Motion%20Research%20Group%3A%20https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock"><img alt="Share via Twitter" src="/motion-research-group/profiles/uw_base_profile/modules/custom/uw_social_media_sharing/images/Twitter.png"></a></li>
+<li><a href="https://plus.google.com/share?url=https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock"><img alt="Share via Google+" src="/motion-research-group/profiles/uw_base_profile/modules/custom/uw_social_media_sharing/images/Google+.png"></a></li>
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock&amp;title=Welcome%20to%20the%20Motion%20Research%20Group&amp;source=https%3A//uwaterloo.ca/motion-research-group/%3Futm_medium%3Dshareblock"><img alt="Share via LinkedIn" src="/motion-research-group/profiles/uw_base_profile/modules/custom/uw_social_media_sharing/images/LinkedIn.png"></a></li>
+<li class="last"><a href="/motion-research-group/forward?path=node/1" rel="nofollow"><img alt="Share via Email" src="/motion-research-group/profiles/uw_base_profile/modules/custom/uw_social_media_sharing/images/Email.png"></a></li>
+</ul></div>  </div>
+</div>
+  </div>
+          </div><!--/main-content-->
+                                                            </div>
+      </div><!--/section inner-->
+    </div><!--/site main-->
+    <div id="footer" class="uw-footer" role="contentinfo">
+      <div id="uw-site-share" class="uw-site-share">
+        <div class="uw-section--inner">
+          <div class="uw-section-share"></div>
+          <ul class="uw-site-share-top">
+            <li class="uw-site-share--button__top">
+              <a href="#main" id="uw-top-button" class="uw-top-button">
+                <span class="ifdsu fdsu-arrow"></span>
+                <span class="uw-footer-top-word">TOP</span>
+              </a>
+            </li>
+            <li class="uw-site-share--button__share">
+              <a href="#uw-site-share" class="uw-footer-social-button">
+                <span class="ifdsu fdsu-share"></span>
+                <span class="uw-footer-share-word">Share</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="site-footer" class="uw-site-footer site-footer-toggle open-site-footer">
+  <div class="uw-section--inner">
+    <div class="uw-site-footer1">
+      <div class="uw-site-footer1--logo-dept">
+                          <a href="/motion-research-group/">Motion research group</a>              </div>
+      <div class="uw-site-footer1--contact">
+        <ul class="uw-footer-social">
+          
+          
+                      <li>
+              <a href="https://www.youtube.com/channel/UCZf5TZyKIE-iQsxygZ43bLg" aria-label="youtube">
+                <span class="ifdsu fdsu-youtube"></span>
+              </a>
+            </li>
+          
+          
+                      <li>
+              <a href="https://www.linkedin.com/groups/4570906" aria-label="linkedin">
+                <span class="ifdsu fdsu-linkedin"></span>
+              </a>
+            </li>
+          
+                  </ul>
+      </div>
+    </div>
+          <div class="uw-site-footer2">
+          <div class="region region-site-footer">
+    <div id="block-uw-nav-site-footer-site-footer" class="block block-uw-nav-site-footer block-odd">
+
+    
+  <div class="content">
+    <div class="field field-name-field-body-no-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/motion-research-group/contact-us">Contact us</a></p>
+</div></div></div>  </div>
+</div>
+  </div>
+      </div>
+      </div>
+</div>
+      <div class="uw-site-footer--global non_generic_footer">
+    <div class="uw-section--inner">
+        <div class="uw-site-flex">
+            <div id="block-uw-nav-global-footer-footer-1" class="block block-uw-nav-global-footer contextual-links-region block-odd footer-1">
+                                    <div id="uw-footer-address" title="//uwaterloo.ca/" typeof="v:VCard">
+                        <div class="element-hidden">
+                            <div property="v:fn">University of Waterloo</div>
+                            <div data-rel="v:org">
+                                <div property="v:organisation-name">University of Waterloo</div>
+                            </div>
+                            <div data-rel="v:geo">
+                                <div property="v:latitude">43.471468</div>
+                                <div property="v:longitude">-80.544205</div>
+                            </div>
+                        </div>
+                        <div data-rel="v:adr">
+                            <div property="v:street-address">200 University Avenue West</div>
+                            <div>
+                                <span property="v:locality">Waterloo</span>,
+                                <span property="v:region">ON</span>,
+                                <span property="v:country-name">Canada</span>&nbsp;
+                                <span property="v:postal-code">N2L 3G1</span>
+                            </div>
+                        </div>
+                        <div class="uw-footer-phone" data-rel="v:tel">
+                            <a href="tel:+1-519-888-4567" property="rdf:value">+1 519 888 4567</a>
+                        </div>
+                    </div>
+                            </div>
+            <div id="block-uw-nav-global-footer-footer-2" class="block block-uw-nav-global-footer contextual-links-region block-even footer-2">
+                                    <ul class="global-menu">
+                        <li><a href="//uwaterloo.ca/about/contact-us">Contact Waterloo</a></li>
+                        <li><a href="//uwaterloo.ca/map/">Maps &amp; Directions</a></li>
+                        <li><a href="//uwaterloo.ca/watsafe/">WatSAFE</a></li>
+                        <li><a href="//uwaterloo.ca/human-resources/accessibility">Accessibility</a></li>
+                        <li><a href="//uwaterloo.ca/privacy/">Privacy</a></li>
+                        <li><a href="//uwaterloo.ca/copyright">Copyright</a></li>
+                        <li><a href="//uwaterloo.ca/news/">News</a></li>
+                        <li><a href="//uwaterloo.ca/careers/">Careers</a></li>
+                        <li><a href="//uwaterloo.ca/about/contact-us/contact-form">Feedback</a></li>
+                    </ul>
+                            </div>
+            <div id="block-uw-nav-global-footer-footer-3" class="block block-uw-nav-global-footer contextual-links-region block-odd footer-3">
+                                    <div class="uw-footer-social-media">
+                        <ul class="uw-footer-social">
+                            <li><a href="https://www.facebook.com/university.waterloo" aria-label="facebook"><span class="ifdsu fdsu-facebook"></span></a></li>
+                            <li><a href="https://twitter.com/uWaterloo" aria-label="twitter"><span class="ifdsu fdsu-twitter"></span></a></li>
+                            <li><a href="https://www.youtube.com/uwaterloo" aria-label="youtube"><span class="ifdsu fdsu-youtube"></span></a></li>
+                            <li><a href="https://instagram.com/uofwaterloo/" aria-label="instagram"><span class="ifdsu fdsu-instagram"></span></a></li>
+                            <li><a href="https://www.linkedin.com/school/uwaterloo" aria-label="linkedin"><span class="ifdsu fdsu-linkedin"></span></a></li>
+                        </ul>
+                        <div class="uw-footer-social-directory"><a href="https://uwaterloo.ca/social-media/">@uwaterloo social directory</a></div>
+                    </div>
+                            </div>
+
+            <div id="block-uw-nav-global-footer-footer-4" class="footer-4 non_generic_footer">
+                                <div class="uw-territorial">
+    <p>The University of Waterloo acknowledges that much of our work takes place on the traditional territory of the Neutral, Anishinaabeg, and Haudenosaunee peoples. Our main campus is situated on the Haldimand Tract, the land granted to the Six Nations that includes six miles on each side of the Grand River. Our active work toward reconciliation takes place across our campuses through research, learning, teaching, and community building, and is co-ordinated within the <a href="https://uwaterloo.ca/indigenous">Office of Indigenous Relations</a>.</p>
+</div>
+                                <div class="uw-footer-content">
+                    <div id="cas_login"><a href="https://uwaterloo.ca/motion-research-group/cas?destination=node/1">Log in</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+  </div>
+</div><!--/site-->
+<div class="ie-resize-fix"></div>
+  <script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_Fz6RHDXdmlpU-bbsf90QfGekbSok1snXaSs3DsAnHBo.js"></script>
+<script>
+<!--//--><![CDATA[//><!--
+window.eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script src="https://uwaterloo.ca/motion-research-group/sites/ca.motion-research-group/files/js/js_b5uBqrfPrs_UEmgBeVFSOcXgjdijNE3mS-ZnwQ0jdnU.js"></script>
+</body>
+</html>

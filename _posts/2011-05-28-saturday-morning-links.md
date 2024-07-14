@@ -1,0 +1,14 @@
+---
+author: "mdruker"
+title: "Saturday Morning Links"
+date: "2011-05-28"
+categories: 
+  - "light-rail"
+  - "news"
+---
+
+**Poll shows support for LRT:** The results of another public opinion poll [were released on Friday](https://machteldfaasxander.com/poll/). The poll was commissioned by Machteld Faas Xander and carried out by Angus Reid Public Opinion. It shows broad support for rapid transit and LRT (with concern for cost), but perhaps most importantly it shows that a large majority is more willing to support candidates that vote for LRT. [Detailed results are available](https://machteldfaasxander.com/wp-content/uploads/2011/05/MFX_Waterloo-Region-LRT_May27.pdf) and worth reading, and both [CTV](https://swo.ctv.ca/servlet/an/local/CTVNews/20110527/lrt-transit-poll-angus-reid-110527/20110527/?hub=SWOHome) and [The Record](https://www.therecord.com/news/local/article/539113--trains-favoured-over-buses-in-latest-transit-poll) have coverage. [570 News](https://www.570news.com/news/local/article/232645--residents-support-lrt-poll-says) also has a story, as well as [discussion on the Gary Doyle Show](https://www.570news.com/listen/listenplayer/232548--1pm-is-the-lrt-referendum-inevitable) with Alison De Muy of Machteld Faas Xander.
+
+**LRT public meetings popular:** [Over 100 people have signed up](https://www.therecord.com/news/local/article/539070--regional-transit-public-meetings-should-be-packed) (The Record) already to speak at the Rapid Transit public meetings at Regional Council on Tuesday and Wednesday. A memo from the Regional Clerk in the [June 1st Council meeting agenda](https://region.waterloo.on.ca/web/region.nsf/afedf1d73f0791a185256af00073fa7c/738BD0F39F09B95285256B0B0052A84D/$file/CA2011-0601.pdf?openelement) suggests that Council restrict delegations at the June 15th meeting to those who have not spoken at the public meetings, to allow Council time to engage in debate prior to the final vote.
+
+**Weak support for referendum at Regional Council:** While Waterloo's Mayor Halloran has continued [talking about her referendum motion](https://www.570news.com/listen/listenplayer/232532--9am-mayor-halloran-discusses-possible-lrt-referendum) (570 News), at this point more Regional Councillors are [against holding a referendum on LRT](https://www.therecord.com/news/local/article/539075--light-rail-transit-referendum-request-splits-councillors) than are for it. (The Record) [The Globe and Mail](https://www.theglobeandmail.com/news/national/the-pros-and-cons-of-public-referendums/article2038277/singlepage/#articlecontent) discusses the idea and referendums in general. CTV explains the [process, timeline, and costs of a referendum](https://swo.ctv.ca/servlet/an/local/CTVNews/20110527/lrt-transit-poll-angus-reid-110527/20110527/?hub=SWOHome) (second video).

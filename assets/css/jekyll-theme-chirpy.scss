@@ -1,0 +1,13 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+img + em, a + em { display: block; text-align: center; }
+
