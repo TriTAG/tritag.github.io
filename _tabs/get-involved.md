@@ -1,14 +1,8 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 1
+icon: fas fa-users
+order: 2
 ---
-
-The Tri-Cities Transport Action Group was founded in 2009 to advocate for improved walking, biking, and transit in Waterloo Region. It's a small group focused on pushing our governments on practical policy, infrastructure, and operations changes to make it easier for people to have meaningful choice in getting around without a car.
-
-## Contact
-
-We can be reached by email at hello@tritag.ca
 
 ## Stay in the Loop
 
@@ -24,3 +18,7 @@ We can be reached by email at hello@tritag.ca
 - Contact city staff, regional staff, Grand River Transit, etc. about things that do not work as they should.
 - Attend public input meetings for transportation and land-use projects, and local projects in your neighbourhood. We'll try to keep you updated via our blog.
 - Speak at City and Regional Council meetings (as a "delegation") on sustainable transportation issues.
+
+## Volunteer
+
+- If you are interested in being involved, contact us at volunteer@tritag.ca. Tell us about your interest, skills, and availability. 
