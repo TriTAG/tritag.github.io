@@ -1,7 +1,7 @@
 ---
 author: "tim"
 title: "Are The Best LRT Options for Uptown Waterloo the Ones Not Being Considered?"
-date: "2011-10-26"
+date: "2011-10-25"
 categories: 
   - "light-rail"
   - "news"

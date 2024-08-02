@@ -1,7 +1,7 @@
 ---
 author: "tim"
 title: "TriTAG statement to Regional Council, 19 January 2011"
-date: "2011-01-20"
+date: "2011-01-19"
 categories: 
   - "light-rail"
   - "news"

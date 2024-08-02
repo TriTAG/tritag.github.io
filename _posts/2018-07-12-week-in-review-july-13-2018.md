@@ -1,7 +1,7 @@
 ---
 author: "mboos"
 title: "Week in review July 13, 2018"
-date: "2018-07-13"
+date: "2018-07-12"
 categories: 
   - "news"
 coverImage: "8721697123_3e79e06dfa_k.jpg"

@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "City of Waterloo Adopts Complete Streets Plan"
-date: "2011-04-20"
+date: "2011-04-19"
 categories: 
   - "cycling"
   - "news"

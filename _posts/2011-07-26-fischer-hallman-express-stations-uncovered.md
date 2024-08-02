@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "Fischer-Hallman Express Stations Uncovered"
-date: "2011-07-27"
+date: "2011-07-26"
 categories: 
   - "buses"
   - "news"

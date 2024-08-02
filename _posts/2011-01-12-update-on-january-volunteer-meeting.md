@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "Update on January Volunteer Meeting"
-date: "2011-01-13"
+date: "2011-01-12"
 categories: 
   - "news"
   - "tritag"

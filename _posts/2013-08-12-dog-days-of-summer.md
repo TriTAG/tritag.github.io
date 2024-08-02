@@ -1,7 +1,7 @@
 ---
 author: "chris"
 title: "Dog days of summer..."
-date: "2013-08-13"
+date: "2013-08-12"
 categories: 
   - "buses"
   - "cycling"

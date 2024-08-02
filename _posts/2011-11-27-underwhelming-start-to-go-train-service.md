@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "Underwhelming Start to GO Train Service"
-date: "2011-11-28"
+date: "2011-11-27"
 categories: 
   - "intercity-transit"
   - "news"

@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "GO Service to Waterloo Region Launches Soon"
-date: "2009-10-27"
+date: "2009-10-26"
 categories: 
   - "intercity-transit"
   - "news"

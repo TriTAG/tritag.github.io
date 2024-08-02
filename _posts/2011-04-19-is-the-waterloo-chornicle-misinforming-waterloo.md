@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "Is the Waterloo Chronicle Misinforming Waterloo?"
-date: "2011-04-20"
+date: "2011-04-19"
 categories: 
   - "light-rail"
   - "news"

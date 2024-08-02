@@ -1,7 +1,7 @@
 ---
 author: "tim"
 title: "More LRT Meetings, and Why It's Important To Go"
-date: "2012-01-10"
+date: "2012-01-09"
 categories: 
   - "news"
 ---

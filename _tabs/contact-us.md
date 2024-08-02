@@ -4,4 +4,4 @@ icon: fas fa-envelope
 order: 3
 ---
 
-We can be reached by email at hello@tritag.ca
+We can be reached by email at hello@tritag.ca.

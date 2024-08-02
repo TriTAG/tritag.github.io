@@ -1,7 +1,7 @@
 ---
 author: "sylvan"
 title: "Guelph Transit wants to scrap their U-Pass"
-date: "2009-12-08"
+date: "2009-12-07"
 categories: 
   - "other-cities"
   - "transit"

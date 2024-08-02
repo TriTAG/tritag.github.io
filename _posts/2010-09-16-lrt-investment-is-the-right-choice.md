@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "LRT Investment is the Right Choice"
-date: "2010-09-17"
+date: "2010-09-16"
 categories: 
   - "light-rail"
   - "news"

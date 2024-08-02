@@ -1,7 +1,7 @@
 ---
 author: "tim"
 title: "CALL NOW - 14 Hours Left To Speak Up For LRT"
-date: "2011-05-26"
+date: "2011-05-25"
 categories: 
   - "news"
 ---

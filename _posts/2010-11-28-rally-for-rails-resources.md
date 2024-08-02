@@ -1,7 +1,7 @@
 ---
 author: "taylor"
 title: "Rally for Rails Resources"
-date: "2010-11-29"
+date: "2010-11-28"
 categories: 
   - "light-rail"
   - "news"

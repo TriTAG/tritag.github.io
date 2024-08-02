@@ -1,7 +1,7 @@
 ---
 author: "mdruker"
 title: "Grand River Transit on Google Maps"
-date: "2010-07-22"
+date: "2010-07-21"
 categories: 
   - "buses"
   - "news"
