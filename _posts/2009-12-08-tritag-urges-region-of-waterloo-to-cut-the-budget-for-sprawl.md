@@ -30,4 +30,4 @@ TriTAG is calling on the Regional government to direct at least 50% of its Feder
 
 The Tri-Cities Transport Action Group (TriTAG) was founded in May 2009 with the idea that people should be able to walk, cycle, and take transit to everywhere they need to go, with dignity. These modes should be accessible to as many people as possible, and made as useful as possible, because transit and active transportation are better for the environment, public health, and the form of our cities. TriTAG believes that through the promotion of both transit and active transportation, the Region of Waterloo can be an even better place to live.
 
-For media inquiries, please contact Tim Mollison at (519) 886-5339 or e-mail media@tritag.ca
+For media inquiries, please e-mail media@tritag.ca
