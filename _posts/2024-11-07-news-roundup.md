@@ -1,5 +1,5 @@
 ---
-author: mdruker
+authors: [rose, rodney, mdruker]
 title: "News roundup: November 7, 2024"
 date: 2024-11-07
 categories: [news]
