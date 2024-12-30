@@ -7,6 +7,8 @@ tags: [tritag]
 pin: false
 ---
 
+*Update: There were no changes to the transit details in this post in Council's final budget approval on December 21, 2024.*
+
 Last Wednesday, in a marathon session from 9am to midnight, Waterloo Regional council [deliberated](https://www.regionofwaterloo.ca/en/regional-government/budget-and-finance-archives.aspx#December-11-and-20-2024-Final-Budget-Days) in detail on its budget. Council has not yet finalized the budget. However, in the detailed line-item deliberations so far Regional Council has shown remarkable interest in and support for transit, despite the initially proposed cuts.
 
 Grand River Transit has had a trajectory of increasing usage and a notable recent [jump in the transit mode share](https://www150.statcan.gc.ca/n1/daily-quotidien/240826/cg-a002-eng.htm) despite the pandemic-related decreases seen in other Canadian cities. This both reflects the growth in the local student populations as well as the launch of ION and ongoing transit network improvements. And GRT has ambitious plans for its [upcoming business plan](https://www.grt.ca/en/about-grt/grt-business-plan-2025-2030.aspx).
@@ -15,7 +17,7 @@ For the 2025 budget, Regional staff requested GRT budget expansions to address c
 
 GRT put up clear information about the proposed cuts online and at potentially affected bus stops, and we and others helped get the word out about them. Many people spoke at the budget input sessions, and over a thousand people [filled out GRT’s survey](https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=10666) with detailed feedback. The University of Waterloo and the Waterloo Undergraduate Student Association (responsible for the largest U-Pass agreement) also notably weighed in.
 
-In their deliberations, Regional councillors expressed strong support for the role of transit in the community, and had clearly heard the feedback. Some votes were closer than others, but they ultimately supported the proposal to start reduced Summer service a week earlier, but rejected the other service cuts. Council voted for a higher monthly pass increase than planned – taking it from $96 to $104. They rejected the request for extra operational support that would have started in January but supported a scaled back version of the other expansion requests.
+In their deliberations, Regional councillors expressed strong support for the role of transit in the community, and had clearly heard the feedback. Some votes were closer than others, and they ultimately supported the proposal to start reduced Summer service a week earlier, but rejected the other service cuts. Council voted for a higher monthly pass increase than planned – taking it from $96 to $104. They rejected the request for extra operational support that would have started in January but supported a scaled back version of the other expansion requests.
 
 In addition, there were three councillor motions on transit (see page 7 [here](https://pub-regionofwaterloo.escribemeetings.com/FileStream.ashx?DocumentId=10675)), all of which were carried. Kitchener councillor Colleen James brought a motion to increase the age for children to require fares from 5 to 7, and for GRT to identify an appropriate age for child fares in its business plan. Waterloo councillor Chantal Huinink brought a motion to decrease the cost for special 2-fare cards distributed by eligible not-for-profits. Waterloo mayor Dorothy McCabe brought a motion to add GRT service to Vista Hills and connect Routes 31 and 29\.
 
