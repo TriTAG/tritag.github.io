@@ -993,13 +993,11 @@ This project has been stalled for far too long, and Metrolinx must finally deliv
         <tr>
              <td>Catherine Fife</td>
              <td>New Democratic</td>
-             <td>No</td>
              <td>Frequent two-way all-way GO rail service to Kitchener and Guelph simply has not been a priority for the Ford government or the Liberal government before them. While there are complexities in expanding passenger service along a rail corridor that is partially owned by a private freight rail company, the Ontario government has the ability to deliver this service much more quickly if it chose to. An NDP government will end the delays and get this project back on track. We will also end the secrecy and give the people of Waterloo Region, Guelph and other communities along this important rail corridor a clear timeline for when this service will finally begin running.</td>
         </tr>
         <tr>
              <td>Clayton Moore</td>
              <td>Liberal</td>
-             <td>No</td>
              <td>Waterloo Region has waited long enough. Metrolinx has been talking about two-way, all-day GO service for over a decade, but we still don’t have a clear timeline. That’s not good enough.<br><br>
 
 As your MPP, I’ll demand full transparency from Metrolinx—clear updates, public reporting, and no more vague promises. I’ll push the province to invest in the infrastructure upgrades needed to get this done and work with local leaders to keep the pressure on.<br><br>
