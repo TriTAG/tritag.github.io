@@ -25,47 +25,6 @@ There are currently no direct transit connections between Brantford and Waterloo
 **B. Would you support providing provincial funding to Grand River Transit, Guelph Transit, and/or Brantford Transit to provide inter-municipal transit links?**
 
 <details>
-<summary>Guelph</summary>
-<table>
-    <thead>
-        <tr>
-            <th>Candidate</th>
-            <th>Party</th>
-            <th>A</th>
-            <th>B</th>
-            <th>Extra comments</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Mike Schreiner</td>
-            <td>Green</td>
-            <td>Yes</td>
-            <td>Yes</td>
-            <td>Mike has been central to advocating for public transit improvements.</td>
-        </tr>
-        <tr>
-            <td>Cameron Spence</td>
-            <td>New Democratic</td>
-            <td>Yes</td>
-            <td>Yes</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Mustafa Zuberi</td>
-            <td>Liberal</td>
-            <td>Yes</td>
-            <td>Yes</td>
-            <td>This is a great initiative! We not only need mass transit to connect these regions, we also need rapid transit in the future to further connect these regions along with the GTA.<br><br>
-
-Yours truly,
-Mustafa Zuberi.</td>
-        </tr>
-    </tbody>
-</table>
-</details>
-
-<details>
 <summary>Brantford—Brant</summary>
 <table>
     <thead>
@@ -115,6 +74,47 @@ I will ensure to highlight the needs for this on my social media accounts in the
             <td>We need to look at how the Province can assist in ensuring transit is available between counties and municipalities. That is a concern I heard multiple times when chatting with Brant county residents. Whether through a shared services deal, or some other system, if there is a need and a desire, we need to look at what can be done to serve the public.
 I would also like to see all day Go Train service into the Brantford Brant area. Our population has grown dramatically- and it will continue to grow. I believe we can support Go Train service, that it would take many vehicles off the road, easy congestion and helping the environment.</td>
         </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Guelph</summary>
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Party</th>
+            <th>A</th>
+            <th>B</th>
+            <th>Extra comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mike Schreiner</td>
+            <td>Green</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Mike has been central to advocating for public transit improvements.</td>
+        </tr>
+        <tr>
+            <td>Cameron Spence</td>
+            <td>New Democratic</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mustafa Zuberi</td>
+            <td>Liberal</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>This is a great initiative! We not only need mass transit to connect these regions, we also need rapid transit in the future to further connect these regions along with the GTA.<br><br>
+
+Yours truly,
+Mustafa Zuberi.</td>
+</tr>
 </tbody>
 </table>
 </details>
