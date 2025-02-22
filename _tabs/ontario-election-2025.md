@@ -7,7 +7,7 @@ order: 1
 
 In the lead up to the Ontario provincial election on February 27, 2025, the Tri-Cities Transport Action Group (TriTAG) sent out a questionnaire for MPP candidates in Waterloo Region to understand their positions on key issues around transit and active transportation. In partnership with several groups, we also asked a question about inter-municipal transit for candidates in Waterloo Region as well as Brantford—Brant, Guelph, and Wellington—Halton Hills. 
 
-The responses are ordered by riding under each question theme:
+We made our best effort to get the questionnaire out to all registered candidates. All responses we received from registered candidates in those districts by February 21 are ordered under each question theme:
 * [Inter-municipal Transit](#inter-municipal-transit)
 * [ION Stage 2 LRT](#ion-stage-2-lrt)
 * [Bike Lanes](#bike-lanes)
@@ -66,7 +66,7 @@ Mustafa Zuberi.</td>
 </details>
 
 <details>
-<summary>Brantford-Brant</summary>
+<summary>Brantford—Brant</summary>
 <table>
     <thead>
         <tr>
