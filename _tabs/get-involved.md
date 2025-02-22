@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-users
-order: 2
+order: 3
 ---
 
 ## Stay in the Loop
