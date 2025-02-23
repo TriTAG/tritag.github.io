@@ -441,7 +441,7 @@ Planning for ION Stage 2 has been underway for years, and the latest cost estima
             <td>Liberal</td>
             <td>Yes</td>
             <td>Yes</td>
-            <td>The province for ION Phase 1 funding for the preliminary design and the EA to be done to their specifications. They would need to pay good part of it. </td>
+            <td>The province provided funding for the preliminary design and environmental assessment (EA) for ION Phase 1, ensuring they were completed to their specifications. I would ensure that the province does the same for Phase 2. Curgrently, the provincial government has not committed any funding to Phase 2. However, the Ontario Liberal government has pledged to fund it, recognizing it as a successful model that has proven to increase ridership and investment.</td>
         </tr>
         <tr>
             <td>Paul Simoes</td>
