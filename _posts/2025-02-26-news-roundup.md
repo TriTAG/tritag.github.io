@@ -71,6 +71,6 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 * “Mobility scooter user calls out Guelph Transit after claiming to be stuck at a stop” ([CTV News](https://www.ctvnews.ca/kitchener/article/mobility-scooter-user-calls-out-guelph-transit-after-he-says-he-was-stuck-in-snow-near-a-stop/))
 
-* “Congestion Pricing Reduced Traffic. Now It’s Hitting Revenue Goals.” ([NYTimes](https://www.nytimes.com/2025/02/24/nyregion/nyc-congestion-pricing-revenue-mta.html))
+* NYC: “Congestion Pricing Reduced Traffic. Now It’s Hitting Revenue Goals.” ([NYTimes](https://www.nytimes.com/2025/02/24/nyregion/nyc-congestion-pricing-revenue-mta.html))
 
 * Edmonton: “'Record-setting' boom in development driven by new zoning rules and new LRT” ([CBC](https://www.cbc.ca/news/canada/edmonton/record-setting-boom-in-development-driven-by-new-zoning-rules-and-new-lrt-1.7465369)) 
