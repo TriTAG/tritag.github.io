@@ -17,6 +17,8 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 * ENGAGE: The Region of Waterloo is planning a new multi-use path along Schneider Creek from Block Line Road to Manitou Drive. More information and a survey is open on the [new EngageWR site](https://www.engagewr.ca/schneider-creek-path).
 
+* FEEDBACK: A partnership between local municipalities and utilities has released a discussion draft of [High-Performance Development Standards](https://www.engagewr.ca/high-performance-development-standards) on environmental aspects of larger new developments. A survey is open until March 17.
+
 ## Walking, biking, and streets
 
 * Regional staff analysis of the 2022 Transportation Tomorrow Survey (TTS) shows increases in walking and biking rates. Staff also look at the dip in transit use in TTS data in light of the Region’s own transit ridership data. The TTS was done during the COVID pandemic, and GRT ridership recovered afterwards. ([Region of Waterloo report](https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=11277))
