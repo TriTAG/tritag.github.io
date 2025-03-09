@@ -1,3 +1,11 @@
+---
+authors: 
+title: "News roundup: March 9, 2025"
+date: 2025-03-09
+categories: [news]
+tags: [tritag]
+pin: false
+---
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last two weeks. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
 
 ## What's happening
