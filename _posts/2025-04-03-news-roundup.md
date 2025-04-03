@@ -48,8 +48,6 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## The shape of our cities
 
-* City of Waterloo economic development strategy \- includes land readiness  
-  * [https://events.waterloo.ca/meetings/Detail/2025-03-24-1400-Council-Meeting/fa0731ac-906e-4822-814d-b29f01357ad5](https://events.waterloo.ca/meetings/Detail/2025-03-24-1400-Council-Meeting/fa0731ac-906e-4822-814d-b29f01357ad5)  
 * Wilmot Township has a public meeting on Monday, April 7 for an official plan amendment to change land designation from employment to township urban area for a subdivision of 677 residential units, largely detached houses and townhouses. This is no longer subject to Regional planning approvals. ([The Record](https://www.therecord.com/news/waterloo-region/revised-wilmot-plan-of-subdivision-has-677-residential-units/article_29c47d3f-8938-5ac7-b0af-98ffdfa53e27.html), [Wilmot Township agenda](https://pub-wilmot.escribemeetings.com/Meeting.aspx?Id=d3aa53e4-11c9-4f43-8270-5422e96b9711&Agenda=Agenda&lang=English&Item=21&Tab=attachments))  
 * City of Kitchener growth management showed a drop in residential building permits issued, especially for high-rise buildings, but did have an increase in low- and mid-rise apartments. 57% of housing starts were in the built-up area. ([Kitchener agenda](https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=1284efbf-ad94-423e-9aa5-6c941a7643bf&Agenda=Agenda&lang=English&Item=13&Tab=attachments))  
 * A city of Kitchener report summarizes housing initiatives and projects ([Kitchener agenda](https://pub-kitchener.escribemeetings.com/Meeting.aspx?Id=1284efbf-ad94-423e-9aa5-6c941a7643bf&Agenda=Agenda&lang=English&Item=16&Tab=attachments))  
