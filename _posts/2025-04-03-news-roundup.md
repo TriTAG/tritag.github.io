@@ -5,9 +5,10 @@ date: 2025-04-03
 categories: [news]
 tags: [tritag]
 pin: false
+image:
+  path: /images/7-king-bus.jpg
+  alt: GRT Route 7 bus on King St in downtown Kitchener
 ---
-
-![GRT Route 7 bus on King Street in downtown Kitchener](/images/7-king-bus.jpg)
 
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last few weeks. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
 
