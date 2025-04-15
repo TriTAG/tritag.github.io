@@ -25,7 +25,7 @@ There’s a lot of other great things in the plan:
 * A new overnight service network with buses every 30 minutes. Currently there is a single Late Night Loop for a few hours after midnight Thursday–Saturday, but otherwise no service between around midnight and 6am.  
 * Children 12 and under would finally ride free. Currently the exemption is 4 and under.  
 * Increased Affordable Transit Program income-tested discounts.  
-* Letting GRT Pay to let employers pay for employee transit use. Currently there’s an available Corporate Pass discount, but it’s not easy for an employer to offer a transit pass as a benefit like they can offer a parking pass.  
+* Using GRT Pay to let employers pay for employee transit use. Currently there’s an available Corporate Pass discount, but it’s not easy for an employer to offer a transit pass as a benefit like they can offer a parking pass.  
 * New highway express routing for long-distance connections.  
 * Coverage for developing areas of the cities.  
 * Increased fixed- and on-demand transit in the townships.  
