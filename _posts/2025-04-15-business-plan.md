@@ -1,6 +1,6 @@
 ---
 authors: mdruker
-title: "GRT Business Plan's big vision could be bigger yet"
+title: "Grand River Transit's big vision could be bigger yet"
 date: 2025-04-15
 categories: [news]
 tags: [region-of-waterloo, transit, light-rail, construction, frequent-service-networks]
