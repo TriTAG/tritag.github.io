@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: 2025 Ontario Election Questionnaire
 icon: fas fa-check
-order: 1
+order: 2
 ---
 
 In the lead up to the Ontario provincial election on February 27, 2025, the Tri-Cities Transport Action Group (TriTAG) sent out a questionnaire for MPP candidates in Waterloo Region to understand their positions on key issues around transit and active transportation. In partnership with several groups, we also asked a question about inter-municipal transit for candidates in Waterloo Region as well as Brantford—Brant, Guelph, and Wellington—Halton Hills. 
