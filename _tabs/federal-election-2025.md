@@ -248,7 +248,7 @@ Our community deserves world-class transportation infrastructure that connects u
             <td>Build separate tracks, not to compete with heavy freight transport. Less maintenance of the tracks!</td>
         </tr>
         <tr>
-            <td>Waterloo<: CHATHAM, Santa Claus (Parti Rhinocéros Party)</td>
+            <td>Waterloo<br><br>CHATHAM, Santa Claus (Parti Rhinocéros Party)</td>
             <td>Similar to what I'd do for a Klondike Bar.</td>
         </tr>
         <tr>
