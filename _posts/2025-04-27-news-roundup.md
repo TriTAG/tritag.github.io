@@ -17,6 +17,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
   * Everything you need to know about voting from [Elections Canada](https://www.elections.ca/home.aspx)  
   * Check out responses from some local candidates in our [candidate questionnaire](https://tritag.ca/federal-election-2025/)  
   * Transit and environmental groups surveyed the federal parties on [key transportation questions](https://www.ttcriders.ca/federalelection2025)  
+* WALK: Join one of many Jane’s Walks being held next weekend, May 2-4, in Cambridge, Kitchener, and Waterloo ([Jane’s Walk WR](https://janeswalkwr.com/))
 * WORKSHOP: The City of Kitchener is holding an [Approaches to Growth workshop](https://www.engagewr.ca/kitchener2051/approaches-growth-workshop-and-matching-online-activity) on May 1 from 4:30 to 7:30pm at city hall. There is also a matching online activity if you cannot make it.  
 * JOIN: GRT is recruiting riders for a [Transit Customer Panel](https://www.grt.ca/en/about-grt/transit-customer-panel.aspx) to respond to feedback surveys
 
