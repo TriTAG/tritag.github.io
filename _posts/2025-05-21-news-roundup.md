@@ -13,7 +13,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## What's happening
 
-* SURVEY: Grand River Transit is running a [customer satisfaction survey](http://grt.ca/survey) until May 28  
+* SURVEY: Grand River Transit is running a [customer satisfaction survey](https://grt.ca/survey) until May 28  
 * WORKSHOP: The City of Cambridge is engaging the public on its Preston Secondary Plan along ION stage 2\. Details at [EngageWR](https://www.engagewr.ca/cambridge-preston-secondary-plan).  
   * Where: 637 King St E, Cambridge, Ontario  
   * When: Thursday, May 22  
