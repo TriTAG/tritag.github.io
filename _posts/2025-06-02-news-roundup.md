@@ -36,7 +36,8 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## Transit
 
-* “Grand River Transit introducing new fareboxes on its buses” ([CTV News](https://www.ctvnews.ca/kitchener/article/grand-river-transit-introducing-new-fareboxes-on-its-buses/))  
+* “Grand River Transit introducing new fareboxes on its buses” ([CTV News](https://www.ctvnews.ca/kitchener/article/grand-river-transit-introducing-new-fareboxes-on-its-buses/))
+* GRT summer service schedules start on June 23, will start year-round 10 minute daytime frequency on the 201 ([GRT](https://www.grt.ca/en/service-updates/service-alerts.aspx)) 
 * “Lack of parking forcing some Kitchener GO riders back onto the highway” ([CityNews](https://kitchener.citynews.ca/2025/05/23/lack-of-parking-forcing-some-go-riders-back-onto-the-highway/amp/))  
 * “Liberals request auditor general investigation into collapsed Metrolinx deal” ([Global News](https://globalnews.ca/news/11199416/ontario-liberals-metrolinx-onxpress-contract/amp/))  
 * “Want an alternative to a 401 tunnel? How about incredibly reliable GO bus service” ([Spacing](https://spacing.ca/toronto/2025/05/28/want-an-alternative-to-a-401-tunnel-how-about-reliable-go-bus-service/))  
