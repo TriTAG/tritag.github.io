@@ -47,7 +47,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## The shape of our cities
 
-* One Million Neighbours publishes its vision document ([One Million Neighbours](https://onemillionneighbours.ca/vision/))  
+* One Million Neighbours publishes its vision for Waterloo Region’s growth ([One Million Neighbours](https://onemillionneighbours.ca/vision/))  
 * “Plea for more downtown green space as Kitchener parks plan passes: Concrete patios are not a substitute for real parks, a citizens’ group said” ([The Record](https://www.therecord.com/news/council/plea-for-more-downtown-green-space-as-kitchener-parks-plan-passes/article_11edd556-31c6-58fb-a511-8abba3d06001.html))  
 * Development proposal to replace 37 apartments with 224 new ones on Erb Street West has neighbours taking concerns to Waterloo City Council ([The Record](https://www.therecord.com/news/waterloo-region/waterloo-neighbours-reject-eight-storey-apartment-building-proposed-near-their-houses/article_85eb6ecb-8ff9-5844-a85f-67857ddd6d1e.html))  
 * “How much does it cost to build a house in Waterloo Region? The cost of land in 2025 is almost the same price as an entire home in 2015” ([The Record](https://www.therecord.com/news/waterloo-region/how-much-does-it-cost-to-build-a-house-in-waterloo-region-we-break-it/article_162cd800-1dce-5fcf-8d95-5a235a13f354.html))  
