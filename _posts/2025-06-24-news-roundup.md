@@ -14,16 +14,9 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## What's happening
 
-* Shape Cambridge’s multi-year accessibility strategy [(Cambridge Today)](https://www.cambridgetoday.ca/local-news/residents-invited-to-shape-cambridges-multi-year-accessibility-strategy-10841365). The online survey can be found [here](https://www.engagewr.ca/myap-multi-year-accessibility-plan?utm_source=cambridgetoday.ca&utm_campaign=cambridgetoday.ca%3A%20outbound&utm_medium=referral) until July 25 but the city has five confirmed dates, times and locations for in-person sessions:  
-  * June 26 at the Allan Reuter Centre, 507 King St. E., Preston from 1 p.m. to 4 p.m.  
-  * July 4 at the Cambridge Centre, 355 Hespeler Rd., Cambridge from 3 p.m. to 6:30 p.m.  
-  * July 16 at the David Durward Centre, 62 Dickson St., Galt from 1 p.m. to 4 p.m.  
-  * July 19 at the Cambridge Centre, 355 Hespeler Rd., Cambridge from 2:30 p.m. to 6:30 p.m.  
-  * July 22 at the Ted Wake Centre, 31 Kribs St., Hespeler from 1 p.m. to 4 p.m.  
+* Shape Cambridge’s multi-year accessibility strategy [(Cambridge Today)](https://www.cambridgetoday.ca/local-news/residents-invited-to-shape-cambridges-multi-year-accessibility-strategy-10841365). The online survey can be found [here](https://www.engagewr.ca/myap-multi-year-accessibility-plan?utm_source=cambridgetoday.ca&utm_campaign=cambridgetoday.ca%3A%20outbound&utm_medium=referral) until July 25 along with five in-person sessions  
 * City of Cambridge wants feedback as it reworks its website ([EngageWR](https://www.engagewr.ca/new-website-migration)). Survey is open until June 30  
-* Share your ideas for the new [Waterloo Park Plan](https://www.engagewr.ca/waterloo-park#jl_magic_tabs_share_your_ideas_gix2), a long-term visioning project for Waterloo Park, focusing on how the park will grow and change through 2050  
 * The Region of Waterloo is updating its taxi by-law and is seeking input in a [survey on taxi services](https://www.engagewr.ca/taxi-bylaw-review) (which includes ride-hailing services like Uber)  
-* The City of Cambridge has an open survey about its [residential form-based zoning plan](https://www.engagewr.ca/new-comprehensive-zoning-by-law-with-form-based-residential-zoning)  
 * The City of Kitchener survey for its [Dundee Secondary Plan](https://www.engagewr.ca/dundeesecondaryplan) closes on June 27\. This plan will shape development on a greenfield site larger than downtown Kitchener
 
 ## Walking, biking, and streets
