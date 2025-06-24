@@ -109,7 +109,7 @@ Beyond:
 
 * “Ontario wants to remove urban design from development applications. Toronto’s chief planner thinks that’s a mistake” ([Toronto Star](https://www.thestar.com/news/gta/ontario-wants-to-remove-urban-design-from-development-applications-torontos-chief-planner-thinks-thats-a/article_c2584c2d-af30-491d-8023-b0022a7c2e50.html#:~:text=Ontario%20wants%20to%20remove%20urban,sees%20it%20as%20red%20tape))  
 * “Eglinton Crosstown LRT officially handed over to TTC, Metrolinx Interim CEO Says” ([Toronto Star](https://www.thestar.com/news/gta/eglinton-crosstown-lrt-train-operations-have-been-transferred-to-ttc-metrolinx-interim-ceo-says/article_88de77ab-54a4-4ede-9467-2967c85a6ddb.html))  
-* “Cost of Scarborough Subway Extension almost doubles from initial estimate” to over $10 billion (Global News)  
+* “Cost of Scarborough Subway Extension almost doubles from initial estimate” to over $10 billion ([Global News](https://globalnews.ca/news/11255440/scarborough-subway-extension-cost-increase/))  
 * “City of Brampton and Zenobē announce historic partnership to electrify transit fleet in landmark UK-Canada collaboration” ([City of Brampton](https://www.brampton.ca/EN/City-Hall/News/Pages/News-Release.aspx/1548))  
 * Motion to permit the Hamilton Street Railway to hire new full-time operator positions to support 2026 transit service expansions is defeated ([Bluesky: Joey Coleman](https://bsky.app/profile/joeycoleman.ca/post/3lrvggo7rik2p))  
 * Oh The Urbanity: “Do Urbanists Want to BAN CARS?” ([YouTube](https://www.youtube.com/watch?v=AoAtoaAgm0g))
