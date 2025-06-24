@@ -50,20 +50,20 @@ Townships:
 
 ION LRT
 
-* “Opinion | Ion light rail is a once-in-a-lifetime opportunity for Cambridge” ([The Record](https://www.therecord.com/opinion/contributors/ion-light-rail-is-a-once-in-a-lifetime-opportunity-for-cambridge/article_748b9990-8cbb-51c1-b61c-a41d615edaad.html))  
-* “Opinion | We need to keep Cambridge light rail plans on track” ([Cambridge Times](https://www.cambridgetimes.ca/opinion/columnists/we-need-to-keep-cambridge-light-rail-plans-on-track/article_354eea85-46e5-5527-a8bf-5f36ae4fc5f4.html))  
+* “Opinion \| Ion light rail is a once-in-a-lifetime opportunity for Cambridge” ([The Record](https://www.therecord.com/opinion/contributors/ion-light-rail-is-a-once-in-a-lifetime-opportunity-for-cambridge/article_748b9990-8cbb-51c1-b61c-a41d615edaad.html))  
+* “Opinion \| We need to keep Cambridge light rail plans on track” ([Cambridge Times](https://www.cambridgetimes.ca/opinion/columnists/we-need-to-keep-cambridge-light-rail-plans-on-track/article_354eea85-46e5-5527-a8bf-5f36ae4fc5f4.html))  
 * “Life with the LRT: A Student’s Perspective on Transit and Transformation in the Waterloo Region” ([Climate Action WR](https://climateactionwr.ca/2025/05/28/life-with-the-lrt-a-students-perspective-on-transit-and-transformation-in-the-waterloo-region/))  
 * “Cambridge LRT expansion options to be tabled again in August” ([Cambridge Today](https://www.cambridgetoday.ca/local-news/cambridge-lrt-expansion-options-to-be-tabled-again-in-august-10792572))
 
 GRT
 
-* “Opinion | Grand River Transit woes mean more to those with less” ([The Record](https://www.therecord.com/opinion/columnists/grand-river-transit-woes-mean-more-to-those-with-less/article_450fc2de-6fcb-58e0-aa89-00b879ee2ebb.html))  
+* “Opinion \| Grand River Transit woes mean more to those with less” ([The Record](https://www.therecord.com/opinion/columnists/grand-river-transit-woes-mean-more-to-those-with-less/article_450fc2de-6fcb-58e0-aa89-00b879ee2ebb.html))  
 * The Region of Waterloo is starting construction soon on a new bus loop and multi-use path by Chicopee Ski & Summer Resort in Kitchener, as well as infill sidewalk along Morrison Road ([GRT](https://www.grt.ca/en/about-grt/chicopee-bus-loop.aspx))  
 * Some of the new bus priority signals are already in operation, turning existing right turn lanes into queue jumps ([Bluesky: Matt Rodrigues](https://bsky.app/profile/mattjrodrigues.bsky.social/post/3lryghnycos23))
 
 Metrolinx/GO Transit
 
-* “Opinion | We’re getting left behind at the GO station” ([The Record](https://www.therecord.com/opinion/columnists/were-getting-left-behind-at-the-go-station/article_3d399ede-71aa-5ae3-b273-46457584a07d.html))  
+* “Opinion \| We’re getting left behind at the GO station” ([The Record](https://www.therecord.com/opinion/columnists/were-getting-left-behind-at-the-go-station/article_3d399ede-71aa-5ae3-b273-46457584a07d.html))  
 * “Breslau & Kitchener Central GO; Future GO Stations” ([YouTube: Rail Documenter Ontario](https://www.youtube.com/watch?v=b5zE-WToKns))  
 * “Metrolinx spent $21K entering its own communications team into awards” ([Global News](https://globalnews.ca/news/11236689/metrolinx-communications-team-awards-cost/amp/))  
 * “Toronto \[Region\]: A Huge Setback for the Greatest Transit Project in Canadian History, and How to Save It” (Reece Martin: [Substack](https://nextmetro.substack.com/p/toronto-a-huge-setback-for-the-greatest?triedRedirect=true), [Youtube](https://www.youtube.com/watch?v=av7YPLbDnD4))
