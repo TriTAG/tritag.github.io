@@ -1,7 +1,7 @@
 ---
 authors: 
 title: "News roundup: June 24, 2025"
-date: 2025-06-25
+date: 2025-06-24
 categories: [news]
 tags: [tritag]
 pin: false
