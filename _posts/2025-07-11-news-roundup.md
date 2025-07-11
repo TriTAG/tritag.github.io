@@ -13,7 +13,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## What's happening
 
-* BUILD: We (TriTAG) are working on a campaign to push for ION phase 2 and beyond. If you are interested in helping, and especially if you have the capacity to help with website and graphic design in the coming weeks, please contact us at volunteer@tritag.ca.  
+* BUILD: We (TriTAG) are working on a campaign to push for ION phase 2 and beyond. If you are interested in helping, and especially if you have the capacity to help with the website and graphic design in the coming weeks, please contact us at volunteer@tritag.ca.  
 * REPRESENT: [Apply](https://www.regionofwaterloo.ca/en/regional-government/appointment-by-call-for-applications.aspx) to fill a vacant Region of Waterloo Council seat for Kitchener, with application deadline of August 1 ([Region of Waterloo](https://www.regionofwaterloo.ca/Modules/News/index.aspx?feedId=928b711d-2b23-416c-b47b-b674c929bab6,95abcc5b-2e79-4c15-9386-e36865f55f5a,ab159244-c732-45c7-b4c9-67b38b43eed5&newsId=3817b64e-799c-4e09-974d-d869583f1902), [The Record](https://www.therecord.com/news/waterloo-region/regional-council-calls-for-applications-to-fill-vacant-seat/article_e9b288fe-fcbc-5f37-846a-4f00f1769e34.html))  
 * PARTICIPATE: The City of Waterloo is developing a Community Planning Permit System for development in Uptown and Erb Street, and is seeking comments and participants for public engagement sessions ([EngageWR](https://www.engagewr.ca/waterloo-haf-initiative-7))
 
@@ -67,7 +67,7 @@ Kitchener
 * [Toronto Star](https://www.thestar.com/news/gta/why-the-battles-over-bus-and-bike-lanes-have-grown-so-fierce-and-what-it/article_c3197357-8a4f-4248-ac1c-0fe4723c364d.html): Why the battles over bus and bike lanes have grown so fierce — and what it says about Toronto’s streets  
 * [Global News](https://globalnews.ca/news/11272275/alberta-transportation-minister-calgary-mayor-bike-lanes/): Alberta transportation minister, Calgary mayor trade letters over bike lanes  
 * [Ray Delahanty \| CityNerd (YouTube)](https://www.youtube.com/watch?v=NgJ998KHBpc): I’m Not Saying Traffic Engineering Is Junk Science But  
-* [Reece Martin](https://nextmetro.substack.com/p/toronto-three-fascinating-tales-from):  
+* Reece Martin:  
   * Toronto: Three Fascinating Tales from Woodbine ([Substack](https://nextmetro.substack.com/p/toronto-three-fascinating-tales-from))  
   * Canada: The State of Urban Rail, 2025\. A roundup of the networks and expansion projects ([Substack](https://nextmetro.substack.com/p/canada-the-state-of-urban-rail-2025?r=2rph1z&utm_medium=ios&triedRedirect=true))  
   * World: A Challenger to the Tram Arrives. Bi-Articulated Trolleybuses offer True Competition to Street Railways ([Substack](https://nextmetro.substack.com/p/world-a-challenger-to-the-tram-arrives?r=2rph1z&utm_medium=ios&triedRedirect=true))
