@@ -9,7 +9,7 @@ image:
   path: /images/header-strasburg-pedestrian-bridge.jpeg
   alt: Aerial view of new pedestrian bridge over Highway 7/8 
 ---
-Here’s the latest in walking, biking, and transit news for Waterloo Region for the last two or so weeks. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
+Here’s the latest in walking, biking, and transit news for Waterloo Region for the last several weeks. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
 
 ## What's happening
 
