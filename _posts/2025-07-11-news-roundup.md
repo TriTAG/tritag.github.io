@@ -66,7 +66,7 @@ Kitchener
 * [Hamilton Spectator](https://www.thespec.com/news/hamilton-region/hamilton-lrt-construction-roads-closed/article_39bf77bf-cee9-5d5f-ac33-52df76846abd.html): How close are we to the big dig for Hamilton’s LRT? Civil works contract expected to be awarded early next year  
 * [Toronto Star](https://www.thestar.com/news/gta/why-the-battles-over-bus-and-bike-lanes-have-grown-so-fierce-and-what-it/article_c3197357-8a4f-4248-ac1c-0fe4723c364d.html): Why the battles over bus and bike lanes have grown so fierce — and what it says about Toronto’s streets  
 * [Global News](https://globalnews.ca/news/11272275/alberta-transportation-minister-calgary-mayor-bike-lanes/): Alberta transportation minister, Calgary mayor trade letters over bike lanes  
-* [Ray Delahanty | CityNerd (YouTube)](https://www.youtube.com/watch?v=NgJ998KHBpc): I’m Not Saying Traffic Engineering Is Junk Science But  
+* [Ray Delahanty \| CityNerd (YouTube)](https://www.youtube.com/watch?v=NgJ998KHBpc): I’m Not Saying Traffic Engineering Is Junk Science But  
 * [Reece Martin](https://nextmetro.substack.com/p/toronto-three-fascinating-tales-from):  
   * Toronto: Three Fascinating Tales from Woodbine ([Substack](https://nextmetro.substack.com/p/toronto-three-fascinating-tales-from))  
   * Canada: The State of Urban Rail, 2025\. A roundup of the networks and expansion projects ([Substack](https://nextmetro.substack.com/p/canada-the-state-of-urban-rail-2025?r=2rph1z&utm_medium=ios&triedRedirect=true))  
