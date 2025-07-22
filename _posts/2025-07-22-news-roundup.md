@@ -40,7 +40,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
 
 ## The shape of our cities
 
-* [The Record](https://www.therecord.com/news/waterloo-region/housing-crisis-deepens-as-slowdown-points-to-an-abject-failure/article_c652487d-e1c9-56ed-b601-d198dd23bfc0.html): Housing crisis deepens as slowdown points to an ‘abject failure’. Halfway through 2025, Waterloo Region is on track to add the fewest new homes in more than a decade.  
+* [The Record](https://www.therecord.com/news/waterloo-region/housing-crisis-deepens-as-slowdown-points-to-an-abject-failure/article_c652487d-e1c9-56ed-b601-d198dd23bfc0.html): Housing crisis deepens as slowdown points to an ‘abject failure’. Halfway through 2025, Waterloo Region is on track to add the fewest new homes in more than a decade  
 * [The Record](https://www.therecord.com/news/waterloo-region/aircraft-safety-behind-regions-olt-appeal-of-kitchener-zoning-plan/article_1b98f45e-25bb-5e0a-8f5a-b162d5cf18af.html): Aircraft safety behind region’s OLT appeal of Kitchener zoning plan  
 * [The Record](https://www.therecord.com/news/waterloo-region/region-of-waterloo-withdraws-olt-appeal-involving-development-around-airport/article_e1bb92e8-e272-530a-9080-b4b16a72385b.html): Region of Waterloo withdraws OLT appeal involving development around airport  
 * [CTV News](https://www.ctvnews.ca/kitchener/article/plan-to-add-three-more-high-rise-towers-to-barrel-yards-in-waterloo/): Plan to add three more high-rise towers to Barrel Yards in Waterloo  
