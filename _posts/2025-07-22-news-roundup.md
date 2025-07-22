@@ -7,7 +7,7 @@ tags: [tritag]
 pin: false
 image:
   path: /images/header-grand-avenue-crossing.jpg
-  alt: Pedestrian crossing of Grand Avenue in Galt area of Cambridge (Photo credit: Keegan Kozolanka / CambridgeToday)
+  alt: Pedestrian crossing of Grand Avenue in Galt area of Cambridge. Photo credit Keegan Kozolanka / CambridgeToday
 ---
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last week and a half. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
 
