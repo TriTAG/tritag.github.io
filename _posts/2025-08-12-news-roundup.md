@@ -6,7 +6,7 @@ categories: [news]
 tags: [tritag]
 pin: false
 image:
-  path: /images/header-ion-train-bus.jpg
+  path: /images/header-ion-train-bus.png
   alt: Illustrated ION train and bus from Regional consultation materials 
 ---
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last several weeks… there’s a lot in this one, pace yourself. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
