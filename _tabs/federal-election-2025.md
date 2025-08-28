@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: 2025 Federal Election Questionnaire
 icon: fas fa-check
-order: 1
+order: 2
 ---
 
 In the lead up to the Federal provincial election on April 28, 2025, the Tri-Cities Transport Action Group (TriTAG) sent out a questionnaire for MP candidates in Waterloo Region (Cambridge, Kitchener Centre, Kitchener—Conestoga, Kitchener South—Hespeler, and Waterloo) to understand their positions on key federal issues of local relevance around transit, active transportation, and land use.
