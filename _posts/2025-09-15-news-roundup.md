@@ -6,7 +6,7 @@ categories: [news]
 tags: [tritag]
 pin: false
 image:
-  path: /images/header-pedestrian-danger-at-speeds.jpg
+  path: /images/header-pedestrian-danger-at-speeds.png
   alt: Pedestrian danger from 90% survival at 30 km/h to 5% at 60 km/h. Graphic from Region of Waterloo, adapted from WHO data
 ---
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last several weeks. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox\! You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca) and [Instagram](https://www.instagram.com/tritag.ca/).
