@@ -7,9 +7,8 @@ order: 5
 ## Stay in the Loop
 
 - [Read our blog](/) and subscribe to our feeds.
-- Become a fan of [TriTAG on Facebook](https://www.facebook.com/TriTAG), where we will notify you of important events, and you can show your support for us.
-- Follow [TriTAG on Twitter](https://www.twitter.com/TriTAG/).
-- Join our [Mailing List](https://eepurl.com/XjuRn), to receive monthly-ish updates about what's going on in Waterloo Region.
+- Follow us on [Bluesky](https://bsky.app/profile/tritag.ca), [Instagram](https://www.instagram.com/tritag.ca/), [LinkedIn](https://www.linkedin.com/company/tritag/), and/or [Facebook](https://www.facebook.com/TriTAG) 
+- Join our [Mailing List](https://eepurl.com/XjuRn), where you can get regular news updates and the IONizeWR newsletter, or just the occasional bigger updates about our work 
 
 ## Speak Out
 
