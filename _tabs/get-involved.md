@@ -7,7 +7,7 @@ order: 5
 ## Stay in the Loop
 
 - [Read our blog](/) and subscribe to our feeds.
-- Follow us on [Bluesky](https://bsky.app/profile/tritag.ca), [Instagram](https://www.instagram.com/tritag.ca/), [LinkedIn](https://www.linkedin.com/company/tritag/), and/or [Facebook](https://www.facebook.com/TriTAG) 
+- Follow us on [Bluesky](https://bsky.app/profile/tritag.ca), [Instagram](https://www.instagram.com/tritag.ca/), [LinkedIn](https://www.linkedin.com/company/tritag/), and [Facebook](https://www.facebook.com/TriTAG) 
 - Join our [Mailing List](https://eepurl.com/XjuRn), where you can get regular news updates and the IONizeWR newsletter, or just the occasional bigger updates about our work 
 
 ## Speak Out
