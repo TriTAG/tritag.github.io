@@ -68,4 +68,4 @@ Now here’s the rest in walking, biking, and transit news for Waterloo Region f
 * [Urban Toronto](https://urbantoronto.ca/news/2025/10/construction-planning-plodding-along-hurontario-lrt.59681): Construction, Planning Plodding Along For Hurontario LRT  
 * Mount Dennis train station is set to open on Nov. 16\. It will service the Kitchener Line and UP Express ([GO Transit](https://www.gotransit.com/en/find-a-station-or-stop/md/mount-dennis-go), [Metrolinx](https://www.metrolinx.com/en/news/mount-dennis-station-opens-to-go-up-and-ttc-customers), [City News](https://toronto.citynews.ca/2025/10/23/mount-dennis-go-transit-up-express-station-opening-in-november/))  
 * [Marco Chitti via Substack](https://marcochitti.substack.com/p/why-im-still-skeptical-about-altos): Why I’m still skeptical about ALTO’s HSR project  
-* [CBC British Columbia](https://www.youtube.com/watch?v=AqDV13zzMao): Right Turn of Death | Creator Network | A Film by The Greater Discussions
+* [CBC British Columbia](https://www.youtube.com/watch?v=AqDV13zzMao): Right Turn of Death \| Creator Network \| A Film by The Greater Discussions
