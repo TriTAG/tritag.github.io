@@ -4,6 +4,9 @@ date: 2025-11-28
 categories: [intercity-transit]
 tags: [go-transit]
 pin: false
+image:
+  path: /images/2025-11-28-header-go-train.jpg
+  alt: GO Train
 ---
 It’s a question every Waterloo Region commuter has asked while stuck on a packed GO bus or waiting in the cold at Kitchener GO: “why don’t we have reliable two-way, all-day GO train service to Toronto?” 
 
