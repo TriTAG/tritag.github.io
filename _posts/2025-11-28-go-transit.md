@@ -1,5 +1,10 @@
-# Waiting for the train: Why Kitchener still lacks all-day GO service
-
+---
+title: "Waiting for the train: Why Kitchener still lacks all-day GO service"
+date: 2025-11-28
+categories: [intercity-transit]
+tags: [go-transit]
+pin: false
+---
 It’s a question every Waterloo Region commuter has asked while stuck on a packed GO bus or waiting in the cold at Kitchener GO: “why don’t we have reliable two-way, all-day GO train service to Toronto?” 
 
 The [launch](https://www.therecord.com/news/waterloo-region/kitchener-sees-hundreds-ride-first-weekend-go-train-to-toronto/article_831c3e3a-2340-5e81-8b1d-41295e6a1d77.html) of [weekend GO trains](https://www.cbc.ca/news/canada/kitchener-waterloo/weekend-go-train-kitchener-9.6989666) this week is a milestone worth celebrating, but riders are still without frequent, all-day service throughout the week, which is a commitment that has been discussed since 2014 and remains only partially delivered.
