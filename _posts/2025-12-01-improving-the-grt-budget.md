@@ -1,4 +1,5 @@
 ---
+authors: mdruker
 title: "How to do better in a tough GRT budget year"
 date: 2025-12-01
 categories: [transit]
