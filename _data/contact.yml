@@ -1,11 +1,13 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/tritag.ca'     # Fill with your Bluesky profile link
+
+- type: instagram
+  icon: 'fa-brands fa-instagram'
+
+- type: linkedin
+  icon: 'fa-brands fa-linkedin'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
@@ -14,18 +16,18 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: github
+  icon: "fab fa-github"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
