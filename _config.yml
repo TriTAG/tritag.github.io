@@ -41,11 +41,9 @@ social:
     - https://bsky.app/profile/tritag.ca
     - https://www.instagram.com/tritag.ca/
     - https://www.linkedin.com/company/tritag/
+    - https://www.facebook.com/TriTAG
     - https://twitter.com/tritag
     - https://github.com/TriTAG
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
