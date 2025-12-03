@@ -39,8 +39,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://bsky.app/profile/tritag.ca
-    - https://twitter.com/tritag # change to your Twitter homepage
-    - https://github.com/TriTAG # change to your GitHub homepage
+    - https://www.instagram.com/tritag.ca/
+    - https://www.linkedin.com/company/tritag/
+    - https://twitter.com/tritag
+    - https://github.com/TriTAG
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
