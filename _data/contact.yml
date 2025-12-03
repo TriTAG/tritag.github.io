@@ -2,12 +2,15 @@
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/tritag.ca'
 
 - type: instagram
   icon: 'fa-brands fa-instagram'
+  url: 'https://www.instagram.com/tritag.ca/'
 
 - type: linkedin
   icon: 'fa-brands fa-linkedin'
+  url: 'http://linkedin.com/company/tritag'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
