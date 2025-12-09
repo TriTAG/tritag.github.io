@@ -6,7 +6,7 @@ categories: [news]
 tags: [tritag]
 pin: false
 image:
-  path: /images/2025-12-09-header-township-transit.png
+  path: /images/2025-12-09-header-township-transit.jpg
   alt: GRT's phase 1 of Township Transit Strategy - new routes in North Dumfries and Wellesley, improvements in Wilmot, Elmira, and Breslau
 ---
 Here’s the latest in walking, biking, and transit news for Waterloo Region for the last month or so. [Subscribe](https://eepurl.com/4Mtkf) to get updates delivered directly to your inbox – note there’s a new option to get all our blog posts. You can also follow us on [Bluesky](https://bsky.app/profile/tritag.ca), [Instagram](https://www.instagram.com/tritag.ca/), and [LinkedIn](https://linkedin.com/company/tritag).
