@@ -37,7 +37,7 @@ Here’s the latest in walking, biking, and transit news for Waterloo Region for
   * [The Record](https://www.therecord.com/news/waterloo-region/future-bike-lanes-banned-by-new-provincial-legislation/article_e59a2522-6981-5785-b24b-bea3a871525c.html): Future bike lanes banned by provincial legislation  
   * [Guelph Today](https://www.guelphtoday.com/letters-to-the-editor/letter-bill-60-is-about-a-lot-more-than-just-bike-lanes-11474779): Bill 60 is about a lot more than just bike lanes  
 * City of Waterloo Road Safety enhancements:  
-  * [City of Waterloo](https://www.waterloo.ca//modules/news/index.aspx?newsId=92332e72-7677-46c5-a311-e1dfdb862686): City staff identify locations for road safety enhancements  
+  * [City of Waterloo](https://www.waterloo.ca/news/posts/council-summary-november-24-2025/): City staff identify locations for road safety enhancements  
   * [CityNews Kitchener](https://kitchener.citynews.ca/2025/11/24/city-of-waterloo-sees-over-2800-collisions-over-five-year-period-report/): Waterloo sees over 2800 collisions over 5-year period  
 * Speed Cameras  
   * [CityNews Kitchener](https://kitchener.citynews.ca/2025/11/21/speed-camera-check-in-7-days-since-programs-were-shut-down/): Speed camera check-in: 7 days since programs were shut down  
