@@ -115,7 +115,7 @@ You can find your MPP by searching your address on the [*Find an MPP* tool](http
 
 About the Authors:
 
-**Simha Kalimipalli** is a Waterloo resident with an interest in infrastructure development.
+**Simha Kalimipalli** is a UWaterloo Engineering grad, currently a grad student at U of T with an interest in transportation and healthcare infrastructure.
 
 **Noah Dykstra** is a resident of Kitchener with an interest in public transport. He is also the KW-Cambridge lead for MTSO.
 
